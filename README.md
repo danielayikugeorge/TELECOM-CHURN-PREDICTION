@@ -23,5 +23,6 @@ Approach:
 
 
 
-![Untitled](https://github.com/danielayikugeorge/TELECOM-CHURN-PREDICTION/assets/159738648/43f46af1-7980-44a3-9755-a3e2d7a5a643)
+![Untitled](https://github.com/danielayikugeorge/TELECOM-CHURN-PREDICTION/assets/159738648/43f46af1-7980-44a3-9755-a3e2d7a5a643) 
 
+![Screenshot 2024-03-03 at 18-05-01 TELECOM CHURN PREDICTION 1 - Jupyter Notebook](https://github.com/danielayikugeorge/TELECOM-CHURN-PREDICTION/assets/159738648/fbda103d-ec02-434a-a266-e1ca4d9570ed)
