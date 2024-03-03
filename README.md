@@ -21,12 +21,7 @@ Approach:
 2. In the realm of data preparation, we segmented the data into training and testing sets, leveraging SMOTE on the training set to address class imbalance effectively.
 3. We conducted an in-depth analysis of multiple models to identify the optimal one for predicting high accuracy, precision, and recall, while also extracting and evaluating the feature importance in relation to churn prediction.
 
-Model 	Accuracy 	Precision 	Recall 	AUC-Score 	F1_score
-0 	Logistic Regression 	0.683333 	0.674658 	0.697345 	0.683455 	0.685814
-1 	Decision Tree 	0.852632 	0.841652 	0.865487 	0.852743 	0.853403
-2 	Random Forest 	0.937719 	0.959108 	0.913274 	0.937507 	0.935630
-3 	Gradient Boosting 	0.847368 	0.894949 	0.784071 	0.846818 	0.835849
-4 	Support Vector 	0.670175 	0.809836 	0.437168 	0.668149 	0.567816
-5 	Ada Boost 	0.771930 	0.774775 	0.761062 	0.771835 	0.767857
-6 	KNeighbors Classifier 	0.831579 	0.763047 	0.957522 	0.832674 	0.849294
+
+
+![Untitled](https://github.com/danielayikugeorge/TELECOM-CHURN-PREDICTION/assets/159738648/43f46af1-7980-44a3-9755-a3e2d7a5a643)
 
